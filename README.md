@@ -63,7 +63,3 @@ The program starts with 3 sample patients (IDs 101, 102, 103) already loaded so 
 - The BST deletion handles all three cases: leaf node, single child, and two children (replaced by in-order successor).
 - Each `Patient` object owns its own `VisitLinkedList`, so visit history is naturally scoped per patient.
 - When a patient is treated via the emergency queue (menu option 6), a `TreatmentRecord` is pushed to the stack **and** a `Visit` is automatically added to that patient's history, showing how the four structures work together in one workflow.
-
-## Author
-
-[Your Name Here] - CIT300, Sri Lanka Technology Campus
