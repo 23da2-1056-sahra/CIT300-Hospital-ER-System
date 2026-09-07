@@ -3,9 +3,9 @@ import java.util.Scanner;
 import model.Patient;
 import model.Visit;
 import model.TreatmentRecord;
-import structures.PatientBST;
-import structures.EmergencyQueue;
-import structures.TreatmentStack;
+import structure.PatientBST;
+import structure.EmergencyQueue;
+import structure.TreatmentStack;
 
 /**
  * Mini Hospital Emergency Management System

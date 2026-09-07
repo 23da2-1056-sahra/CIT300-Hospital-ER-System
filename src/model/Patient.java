@@ -1,6 +1,6 @@
 package model;
 
-import structures.VisitLinkedList;
+import structure.VisitLinkedList;
 
 /**
  * Represents a single patient record.
